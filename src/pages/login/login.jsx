@@ -1,4 +1,4 @@
-import React,{ component } from 'react'
+import React,{ Component } from 'react'
 import { Form, Icon, Input, Button } from 'antd'
 import logo from './images/logo.png'
 import './login.less'
